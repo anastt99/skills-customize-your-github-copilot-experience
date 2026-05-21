@@ -60,6 +60,25 @@
       ]
     },
     {
+      "id": "file-io-automation",
+      "title": "File I/O and Automation",
+      "description": "Read and write files in Python and automate a simple report workflow.",
+      "path": "assignments/file-io-automation",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sales Data",
+          "file": "sales-data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
       "id": "rest-apis-fastapi",
       "title": "REST APIs with FastAPI",
       "description": "Building REST APIs using FastAPI, Pydantic models, and JSON responses",
